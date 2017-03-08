@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="enter_email">Email or Phone</string>
+    <string name="enter_password">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="button_new_account">   Create New Account   </string>
+    <string name="enter_email_hint">Enter Email or Phone</string>
+    <string name="enter_password_hint">Enter Password</string>
+</resources>
